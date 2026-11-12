@@ -1,9 +1,15 @@
-# DevOps Capstone Template
+# devops-capstone-project
 
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 [![Python 3.9](https://img.shields.io/badge/Python-3.9-green.svg)](https://shields.io/)
 
-This repository contains the starter code for the project in [**IBM-CD0285EN-SkillsNetwork DevOps Capstone Project**](https://www.coursera.org/learn/devops-capstone-project?specialization=devops-and-software-engineering) which is part of the [**IBM DevOps and Software Engineering Professional Certificate**](https://www.coursera.org/professional-certificates/devops-and-software-engineering)
+# Project Description
+
+The DevOps Capstone Project is part of the IBM DevOps and Software Engineering Professional Certificate.
+
+This project focuses on developing and deploying a RESTful microservice using Python and Flask. It involves implementing CRUD operations (Create, Read, Update, Delete), writing automated tests, maintaining code coverage, and applying DevOps practices such as Continuous Integration and Continuous Delivery (CI/CD).
+
+The goal is to gain practical experience in developing, testing, and deploying a cloud-native application using modern DevOps tools and methodologies.
 
 ## Usage
 
